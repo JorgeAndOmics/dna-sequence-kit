@@ -165,4 +165,4 @@ def search_sequence_databases(sequence, database_name):
     Returns:
         str: The results of the search.
     """
-    # implementation for searching sequence database is left to the user
+    # implementation for searching sequence database
