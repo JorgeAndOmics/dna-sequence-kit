@@ -24,7 +24,8 @@ The following functions are provided:
 -   `batch_process_sequences(sequences)`: Performs a batch process on multiple DNA sequences.
 -   `search_sequence_databases(sequence, database_name)`: Performs a search against a DNA sequence database.
 
-## `Use example - perform_restriction_analysis(sequence, enzyme_name)`
+## `Use Example`
+### `perform_restriction_analysis(sequence, enzyme_name)`
 
 Performs a restriction enzyme analysis on a DNA sequence.
 
